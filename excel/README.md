@@ -11,12 +11,20 @@ The analysis focuses on sales data from Q4 2024.
 - Calculate key sales metrics
 - Create visualizations to support business insights
 
+## Technologies Used
+- Excel
+
 ## Key Tasks
 - Standardized date formats
 - Cleaned city names and categories
 - Removed duplicate records
 - Validated price and quantity fields
 - Calculated total sales and sales by city and category
+
+## How to Run the Project
+- Open the Excel files included in this folder.
+- Review the cleaned data and calculated metrics.
+- Explore the analysis and visualizations created.
 
 ## Key Metrics
 - Total sales
@@ -26,3 +34,6 @@ The analysis focuses on sales data from Q4 2024.
 
 ## Insight Example
 Cali was identified as the city with the highest sales during the analyzed period.
+
+## Demo
+No live demo available for this project
